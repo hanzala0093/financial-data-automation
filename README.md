@@ -32,6 +32,6 @@ Automated financial data processing to improve efficiency, reduce errors, and en
 
 ## 📸 Screenshots
 ![Dashboard Preview](https://github.com/user-attachments/assets/ed0e7a36-8a98-4742-aef3-57339a4f22da)
-![Automated Workflow]([https://dummyimage.com/800x400/000/fff&text=Automated+Workflow](https://github.com/user-attachments/assets/853b1e4b-362d-491d-ac1b-3b19e22b234a))
+![Automated Workflow](https://github.com/user-attachments/assets/b886e0f7-b1b7-4497-81f9-0665ed5cd72d)
 
 
