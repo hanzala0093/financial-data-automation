@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 Automated financial data processing to improve efficiency, reduce errors, and enhance visualization.
-
 ## ⚠️ Challenges
 - ⏳ Time-consuming manual data handling.
 - ❌ High error rates in data processing.
@@ -32,9 +31,7 @@ Automated financial data processing to improve efficiency, reduce errors, and en
 - ☁️ Cloud-based real-time analytics.
 
 ## 📸 Screenshots
-![Dashboard Preview]()
-![Automated Workflow](https://dummyimage.com/800x400/000/fff&text=Automated+Workflow)
+![Dashboard Preview](https://github.com/user-attachments/assets/ed0e7a36-8a98-4742-aef3-57339a4f22da)
+![Automated Workflow]([https://dummyimage.com/800x400/000/fff&text=Automated+Workflow](https://github.com/user-attachments/assets/853b1e4b-362d-491d-ac1b-3b19e22b234a))
 
----
-💡 *Feel free to contribute or reach out for suggestions!*
 
