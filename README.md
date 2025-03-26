@@ -30,8 +30,10 @@ Automated financial data processing to improve efficiency, reduce errors, and en
 - 🤖 ML-based financial predictions.
 - ☁️ Cloud-based real-time analytics.
 
-## 📸 Screenshots
+## 📸 Screenshots## 
+## Dashboard Preview
 ![Dashboard Preview](https://github.com/user-attachments/assets/ed0e7a36-8a98-4742-aef3-57339a4f22da)
+## Automated Workflow
 ![Automated Workflow](https://github.com/user-attachments/assets/b886e0f7-b1b7-4497-81f9-0665ed5cd72d)
 
 
